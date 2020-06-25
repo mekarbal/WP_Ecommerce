@@ -22,7 +22,7 @@ Pour exécuter ce projet, vous devez avoir WAMP/XAMPP sur votre PC.
     Coller dans "xampp/ htdocs" - ("wamp/WWW")
     Ouvrez votre navigateur et accédez à l'URL "http://localhost:8080/[nom du projet]/wp-admin/"
 
-Username ou email: me.larbal
+Username ou email: me.karbal
 
 Password: 123456
 
