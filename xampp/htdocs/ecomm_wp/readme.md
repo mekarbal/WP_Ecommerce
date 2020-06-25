@@ -1,14 +1,28 @@
-Ecomm_wp
 
-Go luanch phpmyadmin then create a database for your wordpress project with this request :
+<h2>Wordpress Ecommerce</h2>
+Dans ce projet, j'ai essayé de créer un site e-commerce avec WordPress.
 
-CREATE DATABASE ecomm_wp;
 
-for the admin config you can use as username : "me.karbal" and password "123456"
+Liste des plugins installés :
 
-add woocommerce plugin
+    Elementor pro
 
-add elementor
+    WooCommerce
 
-then start your wordpress project 
+    Weglot Translate
+
+    Rank Math SEO
+
+    GDPR Cookie Consent
+
+Pour exécuter ce projet, vous devez avoir WAMP/XAMPP sur votre PC.
+
+    Téléchargez le projet
+    Copiez le dossier principal du projet
+    Coller dans "xampp/ htdocs" - ("wamp/WWW")
+    Ouvrez votre navigateur et accédez à l'URL "http://localhost/[nom du projet]/wp-admin/"
+
+Username ou email: me.larbal
+
+Password: 123456
 
