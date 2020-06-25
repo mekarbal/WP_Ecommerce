@@ -1,8 +1,6 @@
 # wordpress_app
 
-- CMS (content management system) ou SGC (système de gestion de contenu) regroupe une catégorie de logiciels 
-qui permettent de concevoir, gérer et mettre à jour des sites Web ou des application mobile de manière 
-dynamique.
+# - CMS (content management system) ou SGC (système de gestion de contenu) regroupe une catégorie de logiciels qui permettent de concevoir, gérer et mettre à jour des sites Web ou des application mobile de manière dynamique.
 
 - Pour pouvoir être définis comme CMS, les logiciels doivent pouvoir :
 	. être utilisés simultanément par plusieurs individus.
@@ -23,4 +21,22 @@ Open Source, et des dizaines de millions de sites Web l'utilisent.
 	. Adobe.
 	. Joomla.
   
-  # Pour installation if faut creer une base de donnée appelée wordpress_testing
+  
+
+# Dans ce projet, j'ai essayé de créer une copie de ce site Web "https:/www.smartchameleontop" en utilisant WordPress.
+
+Nom du thème utilisé: Astra
+
+Plugins WordPress: Elementor pro
+
+Pour exécuter ce projet, vous devez avoir WAMP / XAMPP sur votre PC.
+
+    téléchargez le projet
+    copiez le dossier principal du projet
+    Coller dans "xampp/ htdocs" - ("wamp/WWW")
+    Ouvrez votre navigateur et accédez à l'URL "http://localhost:8080/[nom du projet]/wp-admin/"
+
+username ou email: me.karbal
+
+password: 123456
+
